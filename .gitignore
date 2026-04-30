@@ -1,0 +1,5 @@
+.env
+storage/
+old_version/
+__pycache__/
+*.pyc
